@@ -1,6 +1,4 @@
-<p align = "center">
-**Super Mario "rogue-like" game**
-</p>
+**SUPER MARIO "ROGUE-LIKE" GAME**
 <br>
 <br>
 This is a "rogue-like" text-based game, inspired by the Super Mario game. Rogue-like games are called after the first such software, Rogue, a fantasy game. As it is inspired by Super Mario, it has several similar characters, items, locations and concepts.
